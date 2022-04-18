@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = humbertovegamendez@gmail.com
+	name = Humberto Vega Mendez
